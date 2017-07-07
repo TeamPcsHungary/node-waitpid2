@@ -30,8 +30,6 @@
   },
   "binary": {
     "module_name": "waitpid",
-    "module_path": "./lib/binding/",
-    "host": "https://github.com/joshiggins/node-waitpid2/releases/download/",
-    "remote_path": "{version}"
+    "module_path": "./lib/binding/"
   }
 }
