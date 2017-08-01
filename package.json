@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/takacsv/node-waitpid2.git"
+    "url": "https://github.com/TeamPcsHungary/node-waitpid2.git"
   },
   "keywords": [
     "waitpid",
     "child process"
   ],
-  "author": "takacsv",
+  "author": "TeamPcsHungary",
   "license": "MIT",
   "gypfile": true,
   "dependencies": {
@@ -31,7 +31,7 @@
   "binary": {
     "module_name": "waitpid",
     "module_path": "./lib/binding/",
-    "host": "https://github.com/takacsv/node-waitpid2/releases/download/",
+    "host": "https://github.com/TeamPcsHungary/node-waitpid2/releases/download/",
     "remote_path": "{version}"
   }
 }
